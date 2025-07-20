@@ -10,13 +10,13 @@
 
 ---
 
-## 🧠 Programming Languages
+### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3d7ce3?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🧭 Web Development
+### 🧭 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,19 +31,19 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-## 🛠️ Tools and platforms
+### 🛠️ Tools and platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📈 Python for ML & Analysis
+### 📈 Python for ML & Analysis
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-## 🌍 Languages
+### 🌍 Languages
 <span><img src="img/uk2.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-English-0071bd?style=for-the-badge) </span> &nbsp;
 <span><img src="img/german.png" width="28" height="28" alt="UK flag" />![German](https://img.shields.io/badge/-German-696969?style=for-the-badge) </span> &nbsp;
 <span><img src="img/china.png" width="28" height="28" alt="UK flag" />![Mandarin](https://img.shields.io/badge/-Mandarin-cf3723?style=for-the-badge) </span> 
