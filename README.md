@@ -24,11 +24,12 @@
 
  
 
-![English](https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=google&logoColor=white)
 
+<img src="img/uk.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-English-0071bd?style=for-the-badge)
+<img src="img/german.png" width="28" height="28" alt="UK flag" />![German](https://img.shields.io/badge/-German-696969?style=for-the-badge)
+<img src="img/china.png" width="28" height="28" alt="UK flag" />![Mandarin](https://img.shields.io/badge/-Chinese-cf3723?style=for-the-badge)
 
-<img src="img/chinese.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-Chinese-cf3723?style=for-the-badge)
-
+[//]: # (![English]&#40;https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=google&logoColor=white&#41;)
 
 
 
