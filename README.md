@@ -32,6 +32,19 @@
 [//]: # (![English]&#40;https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=google&logoColor=white&#41;)
 
 
+<span>
+  <img src="img/uk2.png" width="28" height="28" alt="UK flag" /><img src="https://img.shields.io/badge/-English-0071bd?style=for-the-badge" alt="English badge" />
+</span>
+&nbsp;
+<span>
+  <img src="img/german.png" width="28" height="28" alt="German flag" /><img src="https://img.shields.io/badge/-German-696969?style=for-the-badge" alt="German badge" />
+</span>
+&nbsp;
+<span>
+  <img src="img/china.png" width="28" height="28" alt="China flag" /><img src="https://img.shields.io/badge/-Chinese-cf3723?style=for-the-badge" alt="Chinese badge" />
+</span>
+
+
 
 <br><br><br><br><br><br><br><br><br><br>
 
