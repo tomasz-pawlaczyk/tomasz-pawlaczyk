@@ -56,6 +56,7 @@
 }
 </style>
 
+
 <span class="badge english">
   <img src="img/uk.png" alt="UK flag" />
   English
@@ -65,16 +66,15 @@
   Deutsch
 </span>
 <span class="badge mandarin">
-  <img src="img/china.png" alt="China flag" />
+  <img src="img/china.png" alt="Spain flag" />
   Mandarin
 </span>
 
 
-
+![English](https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=google&logoColor=white)
 
 
 
 
 <br><br><br><br><br><br><br><br><br><br>
-
-![English](https://img.shields.io/badge/-English-blue?style=for-the-badge)
+<img src="img/chinese.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-Chinese-cf3723?style=for-the-badge)
