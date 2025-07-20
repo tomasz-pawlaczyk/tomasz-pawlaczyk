@@ -56,7 +56,6 @@
 }
 </style>
 
-
 <span class="badge english">
   <img src="img/uk.png" alt="UK flag" />
   English
@@ -66,9 +65,10 @@
   Deutsch
 </span>
 <span class="badge mandarin">
-  <img src="img/china.png" alt="Spain flag" />
+  <img src="img/china.png" alt="China flag" />
   Mandarin
 </span>
+
 
 
 
