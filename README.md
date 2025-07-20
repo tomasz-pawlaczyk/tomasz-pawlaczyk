@@ -23,58 +23,102 @@
 ## 🌍 Languages
 
  
-<style>
-.badge {
-  display: inline-flex;
-  align-items: center;
-  color: white;
-  font-weight: 600;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  letter-spacing: 0.08em;
-  padding: 5px 12px;
-  border-radius: 4px;
-  user-select: none;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.2);
-}
-
-.badge img {
-  width: 18px;
-  height: 18px;
-  margin-right: 8px;
-  object-fit: cover;
-}
-
-.badge.english {
-  background-color: #3074e3; 
-}
-.badge.mandarin {
-  background-color: #2b2b2b;
-}
-.badge.german {
-  background-color: #f0ad4e;
-}
-</style>
-
-
-<span class="badge english">
-  <img src="img/uk.png" alt="UK flag" />
-  English
-</span>
-<span class="badge german">
-  <img src="img/german.png" alt="Germany flag" />
-  Deutsch
-</span>
-<span class="badge mandarin">
-  <img src="img/china.png" alt="Spain flag" />
-  Mandarin
-</span>
-
 
 ![English](https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=google&logoColor=white)
+
+
+<img src="img/chinese.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-Chinese-cf3723?style=for-the-badge)
 
 
 
 
 <br><br><br><br><br><br><br><br><br><br>
-<img src="img/chinese.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-Chinese-cf3723?style=for-the-badge)
+
+
+[//]: # (<style>)
+
+[//]: # (.badge {)
+
+[//]: # (  display: inline-flex;)
+
+[//]: # (  align-items: center;)
+
+[//]: # (  color: white;)
+
+[//]: # (  font-weight: 600;)
+
+[//]: # (  font-family: Arial, sans-serif;)
+
+[//]: # (  font-size: 14px;)
+
+[//]: # (  letter-spacing: 0.08em;)
+
+[//]: # (  padding: 5px 12px;)
+
+[//]: # (  border-radius: 4px;)
+
+[//]: # (  user-select: none;)
+
+[//]: # (  box-shadow: 0 1px 2px rgba&#40;0,0,0,0.2&#41;;)
+
+[//]: # (})
+
+[//]: # ()
+[//]: # (.badge img {)
+
+[//]: # (  width: 18px;)
+
+[//]: # (  height: 18px;)
+
+[//]: # (  margin-right: 8px;)
+
+[//]: # (  object-fit: cover;)
+
+[//]: # (})
+
+[//]: # ()
+[//]: # (.badge.english {)
+
+[//]: # (  background-color: #3074e3; )
+
+[//]: # (})
+
+[//]: # (.badge.mandarin {)
+
+[//]: # (  background-color: #2b2b2b;)
+
+[//]: # (})
+
+[//]: # (.badge.german {)
+
+[//]: # (  background-color: #f0ad4e;)
+
+[//]: # (})
+
+[//]: # (</style>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (<span class="badge english">)
+
+[//]: # (  <img src="img/uk.png" alt="UK flag" />)
+
+[//]: # (  English)
+
+[//]: # (</span>)
+
+[//]: # (<span class="badge german">)
+
+[//]: # (  <img src="img/german.png" alt="Germany flag" />)
+
+[//]: # (  Deutsch)
+
+[//]: # (</span>)
+
+[//]: # (<span class="badge mandarin">)
+
+[//]: # (  <img src="img/china.png" alt="Spain flag" />)
+
+[//]: # (  Mandarin)
+
+[//]: # (</span>)
