@@ -30,6 +30,11 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+### 📈 Python for ML & Analysis
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ### 🛠️ Tools and platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,18 +42,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-### 📈 Python for ML & Analysis
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-### 🌍 Languages
-<span><img src="img/uk2.png" width="28" height="28" alt="UK flag" />![English](https://img.shields.io/badge/-English-0071bd?style=for-the-badge) </span> &nbsp;
-<span><img src="img/german.png" width="28" height="28" alt="UK flag" />![German](https://img.shields.io/badge/-German-696969?style=for-the-badge) </span> &nbsp;
-<span><img src="img/china.png" width="28" height="28" alt="UK flag" />![Mandarin](https://img.shields.io/badge/-Mandarin-cf3723?style=for-the-badge) </span> 
-
-[//]: # (![English]&#40;https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=google&logoColor=white&#41;)
+[//]: # (### 🌍 Languages)
+[//]: # (<span><img src="img/uk2.png" width="28" height="28" alt="UK flag" />![English]&#40;https://img.shields.io/badge/-English-0071bd?style=for-the-badge&#41; </span> &nbsp;)
+[//]: # (<span><img src="img/german.png" width="28" height="28" alt="UK flag" />![German]&#40;https://img.shields.io/badge/-German-696969?style=for-the-badge&#41; </span> &nbsp;)
+[//]: # (<span><img src="img/china.png" width="28" height="28" alt="UK flag" />![Mandarin]&#40;https://img.shields.io/badge/-Mandarin-cf3723?style=for-the-badge&#41; </span> )
 
 
 
