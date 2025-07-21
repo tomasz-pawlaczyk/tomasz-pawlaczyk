@@ -1,6 +1,5 @@
 # 👋 Hi there!
 
-
 👨‍🦰 I'm a **computer science** student at **Warsaw University of Technology**  
 🌍 Passionate about **Python**, **Data Science** and **Machine Learning**  
 🎖️ Hands-on experience with websites, bots and creative projects  
