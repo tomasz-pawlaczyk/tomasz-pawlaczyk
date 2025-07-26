@@ -44,7 +44,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 
-
+ojihugy
 
 [//]: # (### 🌍 Languages)
 [//]: # (<span><img src="img/uk2.png" width="28" height="28" alt="UK flag" />![English]&#40;https://img.shields.io/badge/-English-0071bd?style=for-the-badge&#41; </span> &nbsp;)
