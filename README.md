@@ -1,5 +1,3 @@
-
-
 # 👋 Hi there!
 
 👨‍🦰 I'm a **computer science** student at **Warsaw University of Technology**  
