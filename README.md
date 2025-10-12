@@ -49,7 +49,6 @@
 
 
 
-
 [//]: # (### 🌍 Languages)
 [//]: # (<span><img src="img/uk2.png" width="28" height="28" alt="UK flag" />![English]&#40;https://img.shields.io/badge/-English-0071bd?style=for-the-badge&#41; </span> &nbsp;)
 [//]: # (<span><img src="img/german.png" width="28" height="28" alt="UK flag" />![German]&#40;https://img.shields.io/badge/-German-696969?style=for-the-badge&#41; </span> &nbsp;)
