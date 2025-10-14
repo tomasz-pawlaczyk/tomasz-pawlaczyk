@@ -5,13 +5,14 @@
 🎖️ Hands-on experience with websites, bots and creative projects  
 🚀 Excited by every opportunity to grow, build, and learn something new!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tomasz-pawlaczyk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
 ---
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3d7ce3?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-e8b605?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
