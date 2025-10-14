@@ -5,7 +5,7 @@
 🎖️ Hands-on experience with websites, bots and creative projects  
 🚀 Excited by every opportunity to grow, build, and learn something new!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&#41;]&#40;https://www.linkedin.com/&#41;)
 
 ---
 
